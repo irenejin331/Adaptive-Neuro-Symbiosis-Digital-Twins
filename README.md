@@ -1,11 +1,11 @@
 # Adaptive-Neuro-Symbiosis-Digital-Twins
 An AI-driven human-machine interaction framework integrating multimodal intent recognition, cognitive digital twins-based real-time simulation, and adaptive robotic control.
-# Adaptive Neuro-Symbiosis Digital Twin (ANS-DT)
+# Adaptive Neuro-Symbiosis Digital Twins (ANS-DT)
 ### Multimodal Human Intent Recognition and Adaptive Robot Control for Human–Robot Collaboration
 
 ## Overview
 
-**Adaptive Neuro-Symbiosis Digital Twin (ANS-DT)** is a human–robot collaboration (HRC) framework that integrates multimodal human intent recognition with synchronized digital twins to enable adaptive and safety-aware robotic behavior.
+**Adaptive Neuro-Symbiosis Digital Twins (ANS-DT)** is a human–robot collaboration (HRC) framework that integrates multimodal human intent recognition with synchronized digital twins to enable adaptive and safety-aware robotic behavior.
 
 This demonstration illustrates a shared-workspace scenario in which a human worker reaches into a shared parts bin while a robotic arm performs a part-transfer operation.
 
